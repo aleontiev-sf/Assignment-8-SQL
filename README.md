@@ -1,1 +1,1 @@
-# Assignment-8-SQL
+## Solution to SQL queries
